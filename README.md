@@ -1,2 +1,2 @@
-# projectss
+# projects
 Project management
