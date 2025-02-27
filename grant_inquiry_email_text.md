@@ -28,10 +28,9 @@ By collaborating with community partners, we aim to empower Autistic adults and 
 Thank you,
 Ariel
 
-
-
-
-
+---
+---
+---
 
 Hello,
 
