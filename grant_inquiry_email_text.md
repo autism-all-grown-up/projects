@@ -1,5 +1,40 @@
 Hello,
 
+I lead Autism All Grown Up (AAGU), an Autistic-run nonprofit in Oregon dedicated to empowering the autistic community by addressing systemic gaps and societal barriers. Our mission is to create spaces, systems, and resources that reflect and respect the lived experiences of Autistic adults—especially those who fall through the cracks of existing services.
+
+**_Custom Message_**
+
+You can learn more about our organization on our website:
+
+https://aagu.org
+
+or review our business plan for a detailed overview of our strategy and budget:
+
+https://autism-all-grown-up.github.io/business-plan/
+
+Unlike traditional approaches that aim to "help" Autistic people conform to societal expectations, AAGU takes an autism-positive, community-first perspective. We don’t aim to "fix" Autistic individuals; instead, we work to fix or fill the systemic and structural gaps that hinder our community’s ability to thrive. Our initiatives are shaped by our own experiences as Autistic adults and informed by the voices, values, and priorities of our community.
+
+Our unique efforts include:
+
+- Accessible Guides: Developing autism-friendly guides for navigating Medicaid, unemployment, healthcare, and other essential systems.
+- Healthcare Training: Equipping healthcare professionals with knowledge and strategies to better serve Autistic patients.
+- Community Building: Establishing autism-friendly social and co-working spaces that foster belonging and connection.
+- Service Directories: Curating and maintaining up-to-date, searchable directories of local service providers and autism resources.
+- Cross-Organization Collaboration: Bridging gaps between organizations to create a unified network of autism-friendly resources.
+- Study and Research: Collaborate on efforts to identify and understand the enormous but uncounted population of Autistic adults without intellectual disability.
+
+By collaborating with community partners, we aim to empower Autistic adults and transform how society supports our community. We currently operate under fiscal sponsorship by Cascade Pacific Resource Conservation and Development and are supported by grants and sponsorships.
+
+Thank you,
+Ariel
+
+
+
+
+
+
+Hello,
+
 I run a new autistic-led Oregon nonprofit called Autism All Grown Up. We focus on supporting autistic adults like ourselves who have unmet needs, especially those who do not qualify for I/DD services.
 
 [Website](https://aagu.org/)
