@@ -1,6 +1,6 @@
 Hello,
 
-I lead Autism All Grown Up (AAGU), an Autistic-run nonprofit in Oregon dedicated to empowering the autistic community by addressing systemic gaps and societal barriers. Our mission is to create spaces, systems, and resources that reflect and respect the lived experiences of Autistic adults—especially those who fall through the cracks of existing services.
+I lead Autism All Grown Up (AAGU), an Autistic-run nonprofit in Oregon dedicated to empowering the Autistic community by addressing systemic gaps and societal barriers. Our mission is to create spaces, systems, and resources that reflect and respect the lived experiences of Autistic adults—especially those who fall through the cracks of existing services.
 
 **_Custom Message_**
 
