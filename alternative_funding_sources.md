@@ -1,8 +1,10 @@
-I have been puzzling over ways to meet the unmet needs of autistic adults I meet, and also how to help ease the transition to adulthood as young adults graduate into the "services cliff". There are a few key problems:
+I want to find ways to use pathways other than K-Plan to support struggling autistic adults who don't qualify for disability services, especially for peer-support programs and to help ease the transition to adulthood as young adults graduate into the "[services cliff](https://drexel.edu/~/media/Files/autismoutcomes/publications/LCO%20Fact%20Sheet%20Services%20Cliff.ashx)". In previous years we identified autism primarily when accompanied by disabilities. This has changed. In previous years we focused on identifying autism in children. This has also changed. While most Autistic individuals are not disabled in classical ways, marked differences in how we communicate, experience and evoke empathy, and even construct our internal realities have resulted in us being marginalized.
+
+There are a few key problems:
 
 * Few autistic adults meet the requirements for I/DD services despite needing some level of support.  
 * Those who are eligible for I/DD services find it very challenging to find DSPs with the skills and understanding to help them.  
-* The kinds of things these adults need can be difficult to define, particularly in the context of I/DD supports.
+* The kinds of things these adults need can be challenging to define, particularly in the context of I/DD supports.
 
 I think it could be possible to use different lesser-used, alternative payment methods through Medicaid that are designed to address the Social Determinants of Health (SDOH). In healthcare lingo, this means supporting health through social wellbeing and can include anything from food or utility assistance to culturally appropriate community engagement.  
 [https://www.medicaid.gov/federal-policy-guidance/downloads/sho21001.pd](https://www.medicaid.gov/federal-policy-guidance/downloads/sho21001.pdf)  
