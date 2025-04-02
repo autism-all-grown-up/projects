@@ -12,7 +12,7 @@ or review our business plan for a detailed overview of our strategy and budget:
 
 https://autism-all-grown-up.github.io/business-plan/
 
-Unlike traditional approaches that aim to "help" Autistic people conform to societal expectations, AAGU takes an autism-positive, community-first perspective. We don’t aim to "fix" Autistic individuals; instead, we work to fix or fill the systemic and structural gaps that hinder our community’s ability to thrive. Our initiatives are shaped by our own experiences as Autistic adults and informed by the voices, values, and priorities of our community.
+AAGU does not aim to "fix" Autistic individuals or help us conform to societal expectations. Instead, we work to fix or fill the systemic and structural gaps that hinder our community’s ability to thrive. Our initiatives are shaped by our own experiences as Autistic adults and informed by the voices, values, and priorities of our community.
 
 Our unique efforts include:
 
@@ -26,6 +26,7 @@ Our unique efforts include:
 By collaborating with community partners, we aim to empower Autistic adults and transform how society supports our community. We currently operate under fiscal sponsorship by Cascade Pacific Resource Conservation and Development and are supported by grants and sponsorships.
 
 Thank you,
+
 Ariel
 
 ---
