@@ -16,12 +16,11 @@ AAGU does not aim to "fix" Autistic individuals or help us conform to societal e
 
 Our unique efforts include:
 
-- Accessible Guides: Developing autism-friendly guides for navigating Medicaid, unemployment, healthcare, and other essential systems.
-- Healthcare Training: Equipping healthcare professionals with knowledge and strategies to better serve Autistic patients.
-- Community Building: Establishing autism-friendly social and co-working spaces that foster belonging and connection.
+- Healthcare Access Guides: Autistic-friendly guides for navigating Medicaid, unemployment, healthcare, and other essential systems. Guides to equip healthcare professionals with knowledge and strategies to better serve Autistic patients.
+- Community Building: Establishing Autistic-friendly social and co-working spaces that foster belonging and connection.
 - Service Directories: Curating and maintaining up-to-date, searchable directories of local service providers and autism resources.
-- Cross-Organization Collaboration: Bridging gaps between organizations to create a unified network of autism-friendly resources.
-- Study and Research: Collaborate on efforts to identify and understand the enormous but uncounted population of Autistic adults without intellectual disability.
+- Cross-Organization Collaboration: Bridging gaps between organizations to create a unified network of Autistic-friendly resources.
+- Study and Research: Collaborate on efforts to identify and understand the enormous but uncounted population of Autistic adults without intellectual disabilities.
 
 By collaborating with community partners, we aim to empower Autistic adults and transform how society supports our community. We currently operate under fiscal sponsorship by Cascade Pacific Resource Conservation and Development and are supported by grants and sponsorships.
 
