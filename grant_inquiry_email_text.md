@@ -12,7 +12,7 @@ or review our business plan for a detailed overview of our strategy and budget:
 
 https://autism-all-grown-up.github.io/business-plan/
 
-AAGU does not aim to "fix" Autistic individuals or help us conform to societal expectations. Instead, we work to fix or fill the systemic and structural gaps that hinder our community’s ability to thrive. Our initiatives are shaped by our own experiences as Autistic adults and informed by the voices, values, and priorities of our community.
+AAGU does not aim to "fix" Autistic individuals or "help" us conform to societal expectations. Instead, we work to fix or fill the systemic and structural gaps that hinder our community’s ability to thrive. Our initiatives are shaped by our own experiences as Autistic adults and informed by the voices, values, and priorities of our community.
 
 Our unique efforts include:
 
